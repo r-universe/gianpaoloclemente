@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DirectedClustering"]
+	path = DirectedClustering
+	url = https://github.com/gianpaoloclemente/directedclustering
+	shallow = true
+	registered = true
